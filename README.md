@@ -54,8 +54,6 @@ Aplicativo mobile-responsive voltado para controle financeiro pessoal.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=feliperibeirospn&theme=tokyonight" />
 </div>
 
-> 💡 *Nota: Para que os gráficos acima funcionem, substitua `SEU_USUARIO_DO_GITHUB` pelo seu username real do GitHub nas URLs.*
-
 ---
 
 ## 📫 Vamos nos conectar?
@@ -64,4 +62,3 @@ Aplicativo mobile-responsive voltado para controle financeiro pessoal.
 - ☁️ **Trailblazer Profile:** https://www.salesforce.com/trailblazer/feliperibeiroa024upb9buvl
 
 ---
-⚡ *"Quem tem a manha do improviso técnico e da gambiarra genial, domina a engenharia de soluções do mundo real."*
