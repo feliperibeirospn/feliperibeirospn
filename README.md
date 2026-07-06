@@ -51,8 +51,7 @@ Aplicativo mobile-responsive voltado para controle financeiro pessoal.
 ## 📊 Estatísticas do Trailhead e GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=feliperibeirospn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=feliperibeirospn&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=feliperibeirospn&theme=tokyonight" />
 </div>
 
 > 💡 *Nota: Para que os gráficos acima funcionem, substitua `SEU_USUARIO_DO_GITHUB` pelo seu username real do GitHub nas URLs.*
