@@ -20,7 +20,7 @@ De Técnico de TI e Gerente de Operações de Vendas a **Especialista no Ecossis
 ### ☁️ Salesforce Ecosystem
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 - **Core:** Sales Cloud, Service Cloud, Data Modeling, Security & Access (Permission Sets, Profiles).
-- **Automação & Processos:** Flow Builder, OmniStudio, Apex, LWC.
+- **Automação & Processos:** Flow Builder, Apex, LWC.
 - **Conquistas:** Trailhead Ranger | 29 Superbadges.
 
 ### 💻 Full-Stack Development
